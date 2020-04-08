@@ -1,3 +1,4 @@
+const dotenv = require('dotenv').config();
 const tmi = require('tmi.js');
 const util = require('util');
 
